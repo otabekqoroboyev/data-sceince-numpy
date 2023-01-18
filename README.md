@@ -1,2 +1,2 @@
-# data-scienceb and AI
+# Data-Science and AI
 data science va suniy intellekt darslari
